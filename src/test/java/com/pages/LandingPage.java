@@ -32,7 +32,7 @@ public class LandingPage extends BaseClass {
 			driver.close();
 			System.out.println("Hala Wallah");
 			
-			
+			System.out.println("Hello from Egypt");
 			
 			
 
