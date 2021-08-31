@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T18:08:58Z" name="Default suite" finished-at="2021-08-11T18:09:07Z" duration-ms="8637">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T18:08:58Z" name="Default test" finished-at="2021-08-11T18:09:07Z" duration-ms="8637">
+      <class name="com.pagesTests.SearchResultsPageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.pagesTests.SearchResultsPageTests@7fc44dec]" started-at="2021-08-11T18:08:58Z" name="setup" finished-at="2021-08-11T18:09:00Z" duration-ms="2200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchedDataDisplaysRelatedResults()[pri:0, instance:com.pagesTests.SearchResultsPageTests@7fc44dec]" started-at="2021-08-11T18:09:00Z" name="verifySearchedDataDisplaysRelatedResults" finished-at="2021-08-11T18:09:07Z" duration-ms="6299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchedDataDisplaysRelatedResults -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pagesTests.SearchResultsPageTests@7fc44dec]" started-at="2021-08-11T18:09:07Z" name="tearDown" finished-at="2021-08-11T18:09:07Z" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pagesTests.SearchResultsPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
