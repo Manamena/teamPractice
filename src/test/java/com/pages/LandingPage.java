@@ -33,7 +33,7 @@ public class LandingPage extends BaseClass {
 			System.out.println("Hala Wallah");
 			
 			System.out.println("Hello from Egypt");
-			//Hi this is Mina
+			driver.findElement(By.xpath("//hamada"));
 			
 
 		} catch (Exception e) {
