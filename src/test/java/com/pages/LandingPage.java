@@ -30,6 +30,11 @@ public class LandingPage extends BaseClass {
 			String expectedTitle = "Next Official Site: Online Fashion, Kids Clothes & Homeware";
 			Assert.assertEquals(actualTitle, expectedTitle);
 			driver.close();
+			System.out.println("Hala Wallah");
+			
+			
+			
+			
 
 		} catch (Exception e) {
 			e.printStackTrace();
