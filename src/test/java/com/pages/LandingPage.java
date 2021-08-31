@@ -47,6 +47,8 @@ public class LandingPage extends BaseClass {
 	///This is a new test case that Sally did
 	//asdasdasd
 	
+	
+	///This is new test case Mina did
 	public void NX101_verifyMyAccountButtonFunctionality() {
 		try {
 			
